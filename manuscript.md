@@ -3,7 +3,7 @@ title: An amazing paper
 author:
 - name: Rhys Whitley
   affiliation: Macquarie University
-  email: mdekauwe@gmail.com
+  email: rhys.something@gmail.com
 - name: Bob Geldolf
   affiliation: University of the Rolling Stones.
   email: Bob@gmail.com

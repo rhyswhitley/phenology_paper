@@ -1,5 +1,6 @@
-MD = md
-SRC = $(wildcard *.$(MD))
+#MD = md
+#SRC = $(wildcard *.$(MD))
+SRC = manuscript.md
 BIB = references.bib
 CSL = style_files/new-phytologist
 

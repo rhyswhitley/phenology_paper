@@ -7,9 +7,10 @@ author:
   affiliation: Centre for Ecology and Hydrology, NERC, Wallingford, United Kingdom.
 - name: Martin G. De Kauwe
   affiliation: Department of Biological Sciences, Macquarie University, North Ryde, NSW 2109, Australia.
-
-abstract: Summary of my amazing paper
 ---  
+
+# Abstract
+Blah, blah.
 
 # Introduction
 
